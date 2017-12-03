@@ -12,7 +12,7 @@ import java.util.Random;
  *
  * @author Dante
  */
-public class Bubblesort {
+public class BubbleSort {
 
     /**
      * @param args the command line arguments
